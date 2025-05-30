@@ -1,0 +1,2 @@
+# News Analysis Project
+This repository contains code for exploratory data analysis (EDA) on news articles, including descriptive statistics, text analysis, time series analysis, and publisher analysis.
