@@ -3,3 +3,7 @@ venv/
 __pycache__/
 .DS_Store
 *.ipynb_checkpoints/
+data/
+*.csv
+data/yfinance_data/
+*.csv

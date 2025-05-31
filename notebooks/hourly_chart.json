@@ -1,0 +1,88 @@
+{
+  "type": "bar",
+  "data": {
+    "labels": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "datasets": [
+      {
+        "label": "Articles Published",
+        "data": [
+          1351472,
+          82,
+          48,
+          27,
+          67,
+          14,
+          57,
+          93,
+          1469,
+          1829,
+          2476,
+          5033,
+          5527,
+          5965,
+          7669,
+          5701,
+          5732,
+          2710,
+          2075,
+          1612,
+          3939,
+          2800,
+          704,
+          227
+        ],
+        "backgroundColor": "#4CAF50",
+        "borderColor": "#388E3C",
+        "borderWidth": 1
+      }
+    ]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true,
+        "title": {
+          "display": true,
+          "text": "Number of Articles"
+        }
+      },
+      "x": {
+        "title": {
+          "display": true,
+          "text": "Hour of Day"
+        }
+      }
+    },
+    "plugins": {
+      "title": {
+        "display": true,
+        "text": "Publication Frequency by Hour"
+      }
+    }
+  }
+}
